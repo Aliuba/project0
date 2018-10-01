@@ -1,0 +1,12 @@
+table {
+	margin-top: 50px;
+}
+table th, table td{
+	background-color: white;
+}
+
+.message {
+	margin-top: 50px;	
+	text-align: center;
+	font-style: italic;
+}

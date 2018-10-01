@@ -1,0 +1,11 @@
+body {
+	font-family: 'Open Sans', sans-serif !important;
+	background-image: linear-gradient(#f8f8f8, pink);
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+#home {
+	text-align: center;
+	margin-top: 50px;
+}
